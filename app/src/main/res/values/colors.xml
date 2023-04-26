@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+
+    <color name="deepBurgundy">#6C161E</color>
+    <color name="lightBurgundy">#B3353F</color>
+    <color name="darkBurgundy">#420D12</color>
+    <color name="offWhite">#F8F8FF</color>
+    <color name="goldenrod">#DAA520</color>
+    <color name="lightGoldenrod">#F7DC6F</color>
+    <color name="darkGoldenrod">#B8860B</color>
+    <color name="darkBrown">#4F2B1D</color>
+    <color name="darkForestGreen">#0B6623</color>
+    <color name="lightForestGreen">#228B22</color>
+    <color name="oliveGreen">#556B2F</color>
+    <color name="lightGray">#D3D3D3</color>
+    <color name="lightCream">#F5F5DC</color>
+    <color name="darkCream">#F0E68C</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="paleBeige">#FAF0E6</color>
+    <color name="lightBeige">#F5DEB3</color>
+    <color name="darkBeige">#CD853F</color>
+    <color name="darkRed">#8B0000</color>
+    <color name="lightRed">#CD5C5C</color>
+    <color name="deepBurgundyDark">#93000B</color>
+    <color name="lightBurgundyDark">#CC2E3A</color>
+    <color name="darkBurgundyDark">#560008</color>
+    <color name="offWhiteDark">#F8F8FF</color>
+    <color name="goldenrodDark">#DAA520</color>
+    <color name="lightGoldenrodDark">#F7DC6F</color>
+    <color name="darkGoldenrodDark">#B8860B</color>
+    <color name="darkBrownDark">#C08D54</color>
+    <color name="darkForestGreenDark">#044A05</color>
+    <color name="lightForestGreenDark">#30AD1A</color>
+    <color name="oliveGreenDark">#576E20</color>
+    <color name="lightGrayDark">#D3D3D3</color>
+    <color name="lightCreamDark">#E7E7C6</color>
+    <color name="darkCreamDark">#B3B342</color>
+    <color name="ivoryDark">#F0E0A6</color>
+    <color name="paleBeigeDark">#E4C4A1</color>
+    <color name="lightBeigeDark">#D0B080</color>
+    <color name="darkBeigeDark">#9A7A42</color>
+    <color name="darkRedDark">#FF2B2B</color>
+    <color name="lightRedDark">#FF6B6B</color>
+
+    <!-- Primary Color -->
+    <color name="ravenclawBlue">#0E1A40</color>
+    <color name="ravenclawLightBlue">#222F5B</color>
+    <color name="ravenclawDarkBlue">#071029</color>
+
+    <!-- OnPrimary Color -->
+    <color name="ravenclawSilver">#C0C3CF</color>
+
+    <!-- Secondary Color -->
+    <color name="ravenclawBronze">#B87333</color>
+    <color name="ravenclawLightBronze">#DAA520</color>
+    <color name="ravenclawDarkBronze">#8B5A2B</color>
+
+    <!-- Tertiary Color -->
+    <color name="ravenclawSilverBlue">#5B759E</color>
+    <color name="ravenclawLightSilverBlue">#A3B7D8</color>
+    <color name="ravenclawDarkSilverBlue">#3D5171</color>
+
+    <!-- OnTertiary Color -->
+    <color name="ravenclawGray">#808080</color>
+
+    <!-- Background Color -->
+    <color name="ravenclawLightGray">#EDEDED</color>
+    <color name="ravenclawDarkGray">#333333</color>
+    <color name="ravenclawCharcoal">#1E1E1E</color>
+
+    <!-- Surface Color -->
+    <color name="ravenclawLightCharcoal">#333333</color>
+    <color name="ravenclawMediumCharcoal">#1E1E1E</color>
+    <color name="ravenclawDarkCharcoal">#111111</color>
+
+    <!-- Error Color -->
+    <color name="ravenclawRed">#C0392B</color>
+    <color name="ravenclawLightRed">#E74C3C</color>
+    <color name="ravenclawBrightRed">#FF0000</color>
+
+    <!--    Colors for calendar-->
+    <color name="cadburyPurple">#330072</color>
+    <color name="supremeOrange">#EA871E</color>
+    <color name="angelBlue">#96AED0</color>
+    <color name="hendersonRed">#A91D36</color>
+    <color name="primroseYellow">#F6D155</color>
+    <color name="discordGreen">#57F287</color>
+</resources>

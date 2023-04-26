@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Color -->
+    <color name="ravenclawBlueDark">#081129</color>
+    <color name="ravenclawLightBlueDark">#1A305B</color>
+    <color name="ravenclawDarkBlueDark">#050B1E</color>
+
+    <!-- OnPrimary Color -->
+    <color name="ravenclawSilverDark">#A2A6B2</color>
+
+    <!-- Secondary Color -->
+    <color name="ravenclawBronzeDark">#9C5B28</color>
+    <color name="ravenclawLightBronzeDark">#B87333</color>
+    <color name="ravenclawDarkBronzeDark">#754020</color>
+
+    <!-- OnSecondary Color -->
+    <color name="ravenclawWhiteDark">#EDEDED</color>
+
+    <!-- Tertiary Color -->
+    <color name="ravenclawSilverBlueDark">#445A7E</color>
+    <color name="ravenclawLightSilverBlueDark">#8795B3</color>
+    <color name="ravenclawDarkSilverBlueDark">#2F3E57</color>
+
+    <!-- OnTertiary Color -->
+    <color name="ravenclawGrayDark">#808080</color>
+
+    <!-- Background Color -->
+    <color name="ravenclawLightGrayDark">#292929</color>
+    <color name="ravenclawDarkGrayDark">#0E0E0E</color>
+    <color name="ravenclawCharcoalDark">#050505</color>
+
+    <!-- Surface Color -->
+    <color name="ravenclawLightCharcoalDark">#1E1E1E</color>
+    <color name="ravenclawMediumCharcoalDark">#0E0E0E</color>
+    <color name="ravenclawDarkCharcoalDark">#030303</color>
+
+    <!-- Error Color -->
+    <color name="ravenclawRedDark">#8F3324</color>
+    <color name="ravenclawLightRedDark">#B9463D</color>
+    <color name="ravenclawBrightRedDark">#FF0000</color>
+
+</resources>

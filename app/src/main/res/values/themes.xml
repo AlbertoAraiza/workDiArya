@@ -1,0 +1,51 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.WorkDarya2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/ravenclawBlue</item>
+        <item name="colorPrimaryVariant">@color/ravenclawLightBlue</item>
+        <item name="colorPrimaryContainer">@color/ravenclawDarkBlue</item>
+        <item name="colorOnPrimaryContainer">@color/ravenclawLightBlue</item>
+        <item name="colorOnPrimary">@color/ravenclawSilver</item>
+
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/ravenclawBronze</item>
+        <item name="colorSecondaryVariant">@color/ravenclawLightBronze</item>
+        <item name="colorSecondaryContainer">@color/ravenclawDarkBronze</item>
+        <item name="colorOnSecondaryContainer">@color/ravenclawLightBronze</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Tertiary brand color. -->
+        <item name="colorTertiary">@color/ravenclawSilverBlue</item>
+        <item name="colorTertiaryContainer">@color/ravenclawDarkSilverBlue</item>
+        <item name="colorOnTertiaryContainer">@color/ravenclawLightSilverBlue</item>
+        <item name="colorOnTertiary">@color/ravenclawGray</item>
+
+        <item name="colorError">@color/ravenclawRed</item>
+        <item name="colorOnError">@color/ravenclawLightRed</item>
+        <item name="colorErrorContainer">@color/ravenclawBrightRed</item>
+        <item name="colorOnErrorContainer">@color/ravenclawLightRed</item>
+
+        <item name="background">@color/ravenclawLightGray</item>
+        <item name="colorOnBackground">@color/ravenclawCharcoal</item>
+
+        <item name="colorSurface">@color/ravenclawLightGray</item>
+        <item name="colorOnSurface">@color/ravenclawLightCharcoal</item>
+        <item name="colorOutline">@color/ravenclawLightGray</item>
+        
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">?attr/colorPrimaryVariant</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_launcher_foreground</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.WorkDarya2</item>
+    </style>
+
+    <style name="Theme.WorkDarya2.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
