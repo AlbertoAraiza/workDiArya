@@ -20,6 +20,7 @@ class ShiftsRVA : RecyclerView.Adapter<ShiftsRVA.ShiftsVH>() {
 
     override fun onBindViewHolder(holder: ShiftsVH, position: Int) {
         //Comentario de prueba rama develop
+        //Linea de conflicto 1
         val currentShift = items[position]
         with(holder.itemBinding){
             this.tvDate.text = weekDayFormatter.format(currentShift.date)
