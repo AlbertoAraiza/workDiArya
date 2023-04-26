@@ -15,6 +15,7 @@ class ShiftsRVA : RecyclerView.Adapter<ShiftsRVA.ShiftsVH>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ShiftsVH {
         val inflater = LayoutInflater.from(parent.context)
+
         return ShiftsVH(ItemShiftBinding.inflate(inflater, parent, false))
     }
 
@@ -23,6 +24,7 @@ class ShiftsRVA : RecyclerView.Adapter<ShiftsRVA.ShiftsVH>() {
         //Linea de conflicto 1
         val currentShift = items[position]
         with(holder.itemBinding){
+            
             this.tvDate.text = weekDayFormatter.format(currentShift.date)
 
             if (currentShift.accumulatedWorking != null){
