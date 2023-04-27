@@ -29,6 +29,7 @@ class CalendarActivity : AppCompatActivity() {
     private val ctx : Context by lazy { this }
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        print("Esto es un ejemplo")
         super.onCreate(savedInstanceState)
         binding = ActivityCalendarBinding.inflate(layoutInflater)
         setContentView(binding.root)
